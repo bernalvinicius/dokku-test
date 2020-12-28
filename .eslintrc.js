@@ -7,7 +7,6 @@ module.exports = {
     'react-app',
     'eslint:recommended',
     'plugin:react/recommended',
-    'prettier',
     'prettier/react',
   ],
   parserOptions: {
